@@ -1,165 +1,177 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Bhagyesh Patil</h1>
-<h3 align="center">Information Technology Student | Python & Android Developer | Tech Enthusiast</h3>
+<!-- ================== PROFILE HEADER ================== -->
+
+<h1 align="center">🌟 <strong>BHAGYESH PATIL</strong> 🌟</h1>
+
+<h3 align="center">
+  <span style="color:#00AEEF; font-weight:700;">
+    Python Developer | Android Developer | Full-Stack Learner
+  </span>
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=900&lines=Hi+I'm+BHAGYESH+PATIL;Information+Technology+Student;Python+%7C+Android+Developer;I+Love+Building+Real+World+Projects;Welcome+to+My+GitHub+Profile!" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-BHAGYESH%20PATIL-%2300AEEF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</p>
 
 <p align="center">
   <a href="mailto:bhagyeshpatil0702@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhagyeshpatil0702%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn here -->
-  <!-- <a href="https://www.linkedin.com/in/your-linkedin-id">
+  <!-- Add LinkedIn / Portfolio if available -->
+  <!--
+  <a href="https://www.linkedin.com/in/your-linkedin-id">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
-  <!-- Add your portfolio here -->
-  <!-- <a href="https://your-portfolio-link.com">
+  </a>
+  <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=for-the-badge" />
-  </a> -->
+  </a>
+  -->
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🎓 **B.E. Information Technology** @ Vivekanand Education Society’s Institute Of Technology (CGPA: **9.13**)
-- 🎓 **Diploma in Computer Engineering** @ Navjeevan Education Society’s Polytechnic (Percentage: **90.91%**)
-- 🐍 Passionate about **Python Development**, **Android Apps**, and **Full-Stack Projects**
-- 🚀 I love building **real-world applications** that solve practical problems
-- 📚 Always learning new tech and improving problem-solving skills
+✨ I'm <strong>BHAGYESH PATIL</strong>, an <strong>Information Technology Engineering student</strong> with a strong interest in real-world problem solving through code.
+
+- 🎓 B.E. IT @ VESIT – <strong>CGPA: 9.13</strong>  
+- 🎓 Diploma in Computer Engineering – <strong>90.91%</strong>  
+- 🔥 Passionate about <strong>Python, Android Development, APIs, Databases, and Full-Stack Development</strong>  
+- 🧠 Exploring <strong>Machine Learning, NLP, and Scalable Applications</strong>  
+- 💼 Internship experience in both <strong>Python backend</strong> and <strong>Android app development</strong>  
+- 📬 Reach me at: <strong>bhagyeshpatil0702@gmail.com</strong>  
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🎨 Dynamic Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,c,js,react,html,css,androidstudio,firebase,mysql,php,git,github&perline=7" />
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
-</p>
+---
 
-### 🗄️ Databases & Backend
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00618a?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+## 🧠 Skills Summary
 
-### 🧰 Other Tools & Tech
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| Category         | Skills                                                                 |
+|-----------------|-------------------------------------------------------------------------|
+| **Languages**   | Python, Java, Kotlin, C, C++, JavaScript                                |
+| **Frontend**    | HTML5, CSS3, React                                                      |
+| **Backend**     | PHP, API Integration, Firebase, Prisma                                  |
+| **Databases**   | MySQL, SQLite, Firebase                                                 |
+| **Tools**       | Android Studio, Git, GitHub                                             |
+| **Special Areas** | NLP, Text Summarization, Android App Development                     |
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Python Development Intern — Bloomzen Info Tech  
-*July 2022 – August 2022 | Thane*
+### ⭐ Python Developer Intern – Bloomzen Info Tech
+- Developed application features using **Python**
+- Implemented **translator feature** using language translation APIs
+- Worked on backend logic and performance optimization for real use-cases
 
-- Developed and optimized application features using **Python**
-- Worked on **API integration** and backend development for real-world projects
-- Built a **Translator feature** using a language translation API
-- Strengthened understanding of backend logic and performance optimization
-
-### 🔹 App Developer Intern — UEF Edtech Pvt. Ltd  
-*July 2022 – August 2022 | Remote*
-
-- Worked on multiple **Android development** projects
-- Implemented **payment gateway integration** for seamless transactions
-- Integrated APIs to enhance app features and performance
-- Gained exposure to **digital marketing** concepts to improve app reach and user engagement
+### ⭐ App Developer Intern – UEF EdTech Pvt. Ltd
+- Worked on multiple **Android applications** (remote internship)
+- Integrated **payment gateways** and **APIs**
+- Gained exposure to **digital marketing** and app performance improvement
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Top Projects
 
-### 📱 E-Rent Application | *Kotlin, PHP, SQLite, Android*
-- Built a mobile app for renting **cars, bikes, scooties, and homes**
-- Implemented **user authentication** with ID proof verification
-- Added real-time **rental request handling** and owner **approval/rejection**
-- Developed search & filter features, dummy payment flow, and followed **MVC architecture**
-
----
-
-### 📚 Book Reading & Downloading App | *Java, Android*
-- Designed for **diploma students** to access semester-wise study materials
-- Implemented **category-wise book organization** and smooth browsing
-- Focused on **clean UI/UX** and efficient memory management for fast performance
+### 📱 E-Rent Application (Kotlin + PHP + SQLite + Android)
+- Rent **Cars, Bikes, Scooties, and Homes**
+- **User authentication** with ID proof verification
+- Owner **approval/rejection system** for rental requests
+- Search and filter for different rental items
+- Follows **MVC architecture** and handles real-time-like flows
 
 ---
 
-### 💰 Crypto Hunter | *React, API, Firebase*
-- Full-stack **cryptocurrency tracking and comparison** platform
-- Implemented dynamic charts for **1-day, 7-day, and 30-day** price tracking
-- Built a responsive comparison module for any two cryptocurrencies
-- Integrated **live crypto news** and a **price alert system** with email notifications
+### 💰 Crypto Hunter (React + API + Firebase)
+- Dynamic **cryptocurrency tracking and comparison** platform
+- Supports **1D / 7D / 30D** price monitoring
+- Compare any two coins side-by-side
+- Watchlist & price alerts (with notifications)
+- Responsive design for web users
 
 ---
 
-### ✂️ Text Summarizer | *Python, NLP*
-- Developed a **web-based desktop application** for automatic text summarization
-- Focused on a clean, **user-friendly interface**
-- Optimized backend logic to improve processing speed and readability of summaries
+### ✂️ Text Summarizer (Python + NLP)
+- Web-based desktop application for **automatic text summarization**
+- Uses **NLP techniques** for extractive summaries
+- Simple, clean UI for non-technical users
+- Focused on fast processing and readable outputs
+
+---
+
+### 📚 Book Reading & Download App (Android + Java)
+- Built for diploma students with **semester-wise** material
+- Organized subjects/books per semester
+- Easy navigation, faster loading, and user-friendly UI
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Bachelor of Engineering – Information Technology**  
-  Vivekanand Education Society’s Institute Of Technology, Chembur  
-  *August 2023 – Present* | **CGPA: 9.13**
+- 🎓 <strong>Bachelor of Engineering – Information Technology</strong>  
+  Vivekanand Education Society’s Institute Of Technology (VESIT), Chembur  
+  <em>Aug 2023 – Present</em> • CGPA: <strong>9.13</strong>
 
-- 🎓 **Diploma in Computer Engineering**  
+- 🎓 <strong>Diploma in Computer Engineering</strong>  
   Navjeevan Education Society’s Polytechnic, Bhandup  
-  *December 2020 – July 2023* | **Percentage: 90.91%**
+  <em>Dec 2020 – Jul 2023</em> • Percentage: <strong>90.91%</strong>
 
 ---
 
-## 📜 Certifications
+## 🏅 Certifications
 
-- ✅ Python AI Bootcamp – DevTown (*July 2023*)
-- ✅ C++ with Data Structures – DevTown (*Feb 2024*)
-- ✅ JavaScript Course – Udemy (*Oct 2023*)
-- ✅ MySQL Course – 5min Engineering (*Jan 2023*)
+- ✅ Python AI Bootcamp – DevTown  
+- ✅ C++ with Data Structures – DevTown  
+- ✅ JavaScript Course – Udemy  
+- ✅ MySQL Course – 5min Engineering  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dynamic)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent" alt="Bhagyesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=transparent" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 📫 Contact
+## 🌀 3D Contribution Graph (Snake)
 
-- 📧 **Email:** [bhagyeshpatil0702@gmail.com](mailto:bhagyeshpatil0702@gmail.com)  
+<!--
+  For this to work, you need to set up the Snake GitHub Action in your repo.
+  Replace "your-github-username" with your actual username and ensure the 
+  GitHub Action generates "github-contribution-grid-snake.svg" in /output.
+-->
+
+<p align="center">
+  <img src="https://github.com/your-github-username/your-github-username/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💬 Let’s Connect
+
+- 📧 Email: **[bhagyeshpatil0702@gmail.com](mailto:bhagyeshpatil0702@gmail.com)**  
 <!-- - 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com) -->
 <!-- - 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-id) -->
 
-💬 *Feel free to reach out for collaboration, internships, or project ideas!*
+---
+
+<p align="center">
+  If you like my work, consider giving a ⭐ to my repositories!
+</p>
