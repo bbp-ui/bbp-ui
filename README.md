@@ -11,79 +11,72 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+BHAGYESH+PATIL+👋;Information+Technology+Student+%7C+9.13+CGPA;Python+%7C+Android+%7C+Full+Stack+Learner;I+build+real+world+projects+using+code+💻;AI+%7C+NLP+%7C+APIs+%7C+Databases+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+BHAGYESH+PATIL+👋;Information+Technology+Student+%7C+9.13+CGPA;Python+%7C+Android+%7C+AI+Developer;I+Build+Clean+%26+Useful+Tech+💻;Welcome+to+My+GitHub+Profile+🚀" />
 </p>
 
-<!-- RIGHT SIDE SMALL GIF (OPTIONAL – YOU CAN CHANGE THE LINK) -->
+<!-- RIGHT SIDE SMALL GIF -->
 <p align="right">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="210" />
 </p>
 
-<!-- BADGES & CONTACT -->
+<!-- CONTACT BADGES -->
 <p align="left">
   <a href="mailto:bhagyeshpatil0702@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhagyeshpatil0702%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/bhagyesh-patil-a3652728a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhagyesh%20Patil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
+<!-- PROFILE VIEWS -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bbp-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/bbp-ui?style=flat-square&color=brightgreen" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=bbp-ui&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About <span style="color:#00AEEF;"><b>BHAGYESH</b></span>
 
-- 🎓 **B.E. IT** @ VESIT • **CGPA: 9.13**
-- 🎓 **Diploma in Computer Engineering** • **90.91%**
-- 🧠 Passion: **Python, Android Development, APIs, Databases, AI & NLP**
-- 💡 I love converting **ideas into working apps & tools**
-- 🌱 Currently diving deeper into **Machine Learning**, **NLP**, and **Full-Stack Web**
-- 🧪 I enjoy building **project-based learning** apps and experiments
-- 📫 Reach me anytime: **`bhagyeshpatil0702@gmail.com`**
+- 🎓 **B.E. IT @ VESIT — CGPA: 9.13**
+- 🎓 **Diploma in Computer Engineering — 90.91%**
+- 🤖 Passionate about **Python, Android Development, NLP, APIs & Databases**
+- 💡 I convert **ideas into real applications**
+- 🌱 Currently improving **Machine Learning + Full Stack skills**
+- 🚀 Always experimenting with **AI + automation tools**
+- 📫 Email me anytime: **bhagyeshpatil0702@gmail.com**
 
 ---
 
 ## 🤖 AI & Smart Stuff I Love
 
-- 🧠 **NLP & Text Summarization** – turning big text into smart short content  
-- 🪄 **Automation with Python** – scripts, data handling, quick utilities  
-- 🔗 **API + Integration** – connecting services and building smarter flows  
-- 📊 **Data & Visualization** – understanding numbers and behaviour  
-
-> I don’t just write code – I try to build **useful, clean and scalable systems**.
+- 🧠 NLP, Text Summarization  
+- 🪄 Python Automation  
+- 🔗 API Development & Integration  
+- 📊 Data Patterns & Visualizations  
+- ⚡ Clean UI & Useful App Experiences  
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-### 💻 Languages
+### 💻 Languages  
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,c,js" />
 </p>
 
-### 🎨 Frontend & UI
+### 🎨 Frontend  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### 🗄 Backend, DB & Cloud
+### 🗄 Backend & Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,php" />
 </p>
 
-### 🛠 Tools & Platforms
+### 🛠 Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode" />
 </p>
@@ -94,37 +87,32 @@
 
 | Area             | What I Use / Do                                                |
 |------------------|----------------------------------------------------------------|
-| **Core Coding**  | Python, Java, Kotlin, C, C++, JavaScript                      |
-| **Mobile Apps**  | Android (Java & Kotlin), API Integration, Payment Gateway     |
-| **Web**          | React, HTML, CSS, PHP, REST APIs                              |
-| **Data & DB**    | MySQL, SQLite, Firebase                                       |
-| **AI / NLP**     | Text Summarization, Simple NLP Workflows                      |
-| **Soft Skills**  | Debugging, Problem Solving, Clean Code, Documentation         |
+| **Core Coding**  | Python, Java, Kotlin, C, C++, JS                               |
+| **Mobile Apps**  | Android (Java & Kotlin), API Integration                       |
+| **Web**          | HTML, CSS, React, PHP, REST APIs                               |
+| **Databases**    | MySQL, Firebase, SQLite                                        |
+| **AI / NLP**     | Summarization, Basic NLP Models                                |
+| **Soft Skills**  | Debugging, Problem Solving, Clean Code                         |
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Bachelor of Engineering – Information Technology**  
-  Vivekanand Education Society’s Institute Of Technology (VESIT), Chembur  
-  `Aug 2023 – Present` • **CGPA: 9.13**
-
-- 🎓 **Diploma in Computer Engineering**  
-  Navjeevan Education Society’s Polytechnic, Bhandup  
-  `Dec 2020 – Jul 2023` • **90.91%**
+- 🎓 **B.E. Information Technology — VESIT (CGPA 9.13)**  
+- 🎓 **Diploma in Computer Engineering — 90.91%**
 
 ---
 
 ## 🏅 Certifications
 
-- ✅ Python AI Bootcamp – DevTown  
-- ✅ C++ with Data Structures – DevTown  
-- ✅ JavaScript Course – Udemy  
-- ✅ MySQL Course – 5min Engineering  
+- Python AI Bootcamp – DevTown  
+- C++ with DS – DevTown  
+- JavaScript – Udemy  
+- MySQL – 5min Engineering  
 
 ---
 
-## 📊 GitHub Analytics – <b>BHAGYESH</b> in Action
+## 📊 GitHub Analytics – <b>bbp-ui</b>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bbp-ui&show_icons=true&theme=radical&hide_border=true" height="160" />
@@ -137,44 +125,22 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bbp-ui&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-## 🌀 Contribution Snake (Just for Fun 🐍)
-
-<!--
-  To enable this, set up the "snake" GitHub Action in your repo.
-  Replace paths if needed and ensure
-  the Action generates github-contribution-grid-snake.svg in /output.
--->
-
-<p align="center">
-  <img src="https://github.com/bbp-ui/bbp-ui/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
-- 🔭 Building more **AI + Automation + App Dev** projects  
-- 🤝 Open to **collabs, internships, and freelancing opportunities**  
-- 📚 Always upskilling in **DSA, Backend & System Design basics**  
+- Building **AI tools + automation projects**  
+- Improving **Backend & Android development**  
+- Preparing for **internships & placements**  
+- Learning **DSA + Full Stack development**  
 
 ---
 
 ## 📬 Connect with <span style="color:#00AEEF;"><b>BHAGYESH</b></span>
 
-- 📧 Email: **[bhagyeshpatil0702@gmail.com](mailto:bhagyeshpatil0702@gmail.com)**  
-- 💼 LinkedIn: **[Your LinkedIn](https://www.linkedin.com/in/your-linkedin-id)**  
-- 🌐 Portfolio: **[your-portfolio.com](https://your-portfolio.com)**  
+- 📧 Email → **bhagyeshpatil0702@gmail.com**  
+- 🔗 LinkedIn → **https://www.linkedin.com/in/bhagyesh-patil-a3652728a/**  
 
 ---
 
 <p align="center">
-  <b>If my profile impressed you, don't forget to ⭐ my repositories!</b> 😄
+  ⭐ <b>If my profile impressed you, please star my repositories!</b> ⭐
 </p>
