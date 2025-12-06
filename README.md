@@ -36,9 +36,9 @@
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bbp-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=brightgreen" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/bbp-ui?style=flat-square&color=brightgreen" alt="GitHub followers" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 - 🧠 Passion: **Python, Android Development, APIs, Databases, AI & NLP**
 - 💡 I love converting **ideas into working apps & tools**
 - 🌱 Currently diving deeper into **Machine Learning**, **NLP**, and **Full-Stack Web**
-- 🧪 I enjoy building **project-based learning** apps like: E-Rent, Text Summarizer, Crypto Tracker
+- 🧪 I enjoy building **project-based learning** apps and experiments
 - 📫 Reach me anytime: **`bhagyeshpatil0702@gmail.com`**
 
 ---
@@ -103,72 +103,6 @@
 
 ---
 
-## 🏢 Experience
-
-<details>
-<summary><b>🔹 Python Developer Intern – Bloomzen Info Tech</b></summary>
-<br>
-
-- Built features using **Python** for real-world applications  
-- Created a **Translator tool** using language translation APIs  
-- Improved backend logic & optimization  
-- Got hands-on experience working with live-like industry projects  
-
-</details>
-
-<details>
-<summary><b>🔹 App Developer Intern – UEF EdTech Pvt. Ltd</b></summary>
-<br>
-
-- Worked remotely on **Android apps**  
-- Integrated **payment gateways** and **REST APIs**  
-- Contributed to improving UI, user experience, performance  
-- Got exposure to basics of **digital marketing + app growth**  
-
-</details>
-
----
-
-## 🚀 Highlight Projects
-
-### ⭐ E-Rent Application (Kotlin · PHP · SQLite · Android)
-> A smart rental system for cars, bikes, scooties & homes
-
-- 👤 **User Authentication** with ID verification  
-- ✅ Owner can **approve / reject** rental requests  
-- 🔍 Search with **filters** for different rentals  
-- 🧱 Follows **MVC architecture**  
-
----
-
-### ⭐ Crypto Hunter (React · API · Firebase)
-> A modern crypto price & comparison dashboard
-
-- 📈 View **1D / 7D / 30D** historical charts  
-- 🔁 Compare **any two cryptocurrencies**  
-- ⭐ Add cryptos to a personal **watchlist**  
-- 🔔 (Extendable) Price alerts / notifications  
-
----
-
-### ⭐ Text Summarizer (Python · NLP)
-> Summarizes long text into a clean, short summary
-
-- 🧠 Uses **NLP logic** for extractive summarization  
-- 🧼 Simple, **user-friendly interface**  
-- ⚡ Fast processing for long text  
-
----
-
-### ⭐ Book Reading & Download App (Android · Java)
-> Focused on diploma students
-
-- 📚 Books arranged **semester-wise**  
-- 🗂 Subject-wise content organization  
-- 🚀 Smooth UI for quick access  
-
----
-
 ## 🎓 Education
 
 - 🎓 **Bachelor of Engineering – Information Technology**  
@@ -193,12 +127,12 @@
 ## 📊 GitHub Analytics – <b>BHAGYESH</b> in Action
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bbp-ui&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbp-ui&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbp-ui&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
@@ -206,7 +140,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bbp-ui&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
@@ -215,12 +149,12 @@
 
 <!--
   To enable this, set up the "snake" GitHub Action in your repo.
-  Replace YOUR_GITHUB_USERNAME with your username and ensure
-  the Action generates github-contribution-grid-snake.svg.
+  Replace paths if needed and ensure
+  the Action generates github-contribution-grid-snake.svg in /output.
 -->
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/bbp-ui/bbp-ui/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
