@@ -109,23 +109,6 @@
 - C++ with DS – DevTown  
 - JavaScript – Udemy  
 - MySQL – 5min Engineering  
-
----
-
-## 📊 GitHub Analytics – **bbp-ui**
-
-
-<p align="center">
-  <!-- Profile-level badges (work reliably) -->
-  <img src="https://komarev.com/ghpvc/?username=bbp-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/bbp-ui?style=for-the-badge&logo=github" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/last-commit/bbp-ui/repo-one?style=for-the-badge&logo=github" alt="Last Commit (example repo)" />
-</p>
-
-
-
 ---
 
 ## 🎯 Current Focus
