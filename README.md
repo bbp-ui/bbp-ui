@@ -112,17 +112,31 @@
 
 ---
 
-## 📊 GitHub Analytics – <b>bbp-ui</b>
+## 📊 GitHub Analytics – **bbp-ui**
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bbp-ui&show_icons=true&theme=radical&hide_border=true" height="160" />
-  
-  <img src="https://streak-stats.demolab.com?user=bbp-ui&theme=radical&hide_border=true" height="160" />
+  <!-- Primary stats (mirror) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bbp-ui&show_icons=true&theme=radical&hide_border=true" height="140" alt="GitHub Stats (mirror)" />
+
+  <!-- Streak (mirror) -->
+  <img src="https://streak-stats.demolab.com?user=bbp-ui&theme=radical&hide_border=true" height="140" alt="GitHub Streak (mirror)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bbp-ui&layout=compact&theme=radical&hide_border=true" height="160" />
+  <!-- Top languages (mirror) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bbp-ui&layout=compact&theme=radical&hide_border=true" height="140" alt="Top Languages (mirror)" />
 </p>
+
+---
+
+<p align="center">
+  <!-- Reliable fallback badges (shields.io) -->
+  <img src="https://img.shields.io/github/forks/bbp-ui?style=for-the-badge&logo=github" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/bbp-ui?style=for-the-badge&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/watchers/bbp-ui?style=for-the-badge&logo=github" alt="Watchers" />
+  <img src="https://img.shields.io/github/followers/bbp-ui?style=for-the-badge&logo=github" alt="Followers" />
+</p>
+
 
 ---
 
