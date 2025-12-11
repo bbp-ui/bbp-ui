@@ -115,16 +115,16 @@
 ## 📊 GitHub Analytics – **bbp-ui**
 
 <p align="center">
-  <!-- Primary stats (mirror) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bbp-ui&show_icons=true&theme=radical&hide_border=true" height="140" alt="GitHub Stats (mirror)" />
-
-  <!-- Streak (mirror) -->
-  <img src="https://streak-stats.demolab.com?user=bbp-ui&theme=radical&hide_border=true" height="140" alt="GitHub Streak (mirror)" />
+  <img src="https://img.shields.io/github/forks/bbp-ui?style=for-the-badge&logo=github" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/bbp-ui?style=for-the-badge&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/watchers/bbp-ui?style=for-the-badge&logo=github" alt="Watchers" />
+  <img src="https://img.shields.io/github/followers/bbp-ui?style=for-the-badge&logo=github" alt="Followers" />
 </p>
 
 <p align="center">
-  <!-- Top languages (mirror) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bbp-ui&layout=compact&theme=radical&hide_border=true" height="140" alt="Top Languages (mirror)" />
+  <img src="https://img.shields.io/github/last-commit/bbp-ui?style=for-the-badge&logo=github" alt="Last Commit" />
+  <img src="https://img.shields.io/github/issues/bbp-ui?style=for-the-badge&logo=github" alt="Open Issues" />
+  <img src="https://img.shields.io/github/license/bbp-ui?style=for-the-badge&logo=github" alt="License" />
 </p>
 
 ---
