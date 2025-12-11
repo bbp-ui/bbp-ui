@@ -114,28 +114,16 @@
 
 ## 📊 GitHub Analytics – **bbp-ui**
 
+
 <p align="center">
-  <img src="https://img.shields.io/github/forks/bbp-ui?style=for-the-badge&logo=github" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/bbp-ui?style=for-the-badge&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/watchers/bbp-ui?style=for-the-badge&logo=github" alt="Watchers" />
+  <!-- Profile-level badges (work reliably) -->
+  <img src="https://komarev.com/ghpvc/?username=bbp-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;
   <img src="https://img.shields.io/github/followers/bbp-ui?style=for-the-badge&logo=github" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/bbp-ui/repo-one?style=for-the-badge&logo=github" alt="Last Commit (example repo)" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/bbp-ui?style=for-the-badge&logo=github" alt="Last Commit" />
-  <img src="https://img.shields.io/github/issues/bbp-ui?style=for-the-badge&logo=github" alt="Open Issues" />
-  <img src="https://img.shields.io/github/license/bbp-ui?style=for-the-badge&logo=github" alt="License" />
-</p>
-
----
-
-<p align="center">
-  <!-- Reliable fallback badges (shields.io) -->
-  <img src="https://img.shields.io/github/forks/bbp-ui?style=for-the-badge&logo=github" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/bbp-ui?style=for-the-badge&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/watchers/bbp-ui?style=for-the-badge&logo=github" alt="Watchers" />
-  <img src="https://img.shields.io/github/followers/bbp-ui?style=for-the-badge&logo=github" alt="Followers" />
-</p>
 
 
 ---
