@@ -78,7 +78,7 @@
 
 ### 🛠 Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,docker,jenkins,githubactions" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,docker,jenkins,githubactions,Teraform,Ansible,Kubernetes" />
 </p>
 
 ---
