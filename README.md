@@ -6,8 +6,8 @@
 </h1>
 
 <h3 align="center">
-  <b>AI & Python Enthusiast • Android Developer • Future Full-Stack Engineer</b>
-</h3>
+  <b>AI & Python Enthusiast • Android Developer • Future Full-Stack Engineer • Devops Engineer</b>
+</h3> 
 
 <!-- TYPING EFFECT -->
 <p align="center">
